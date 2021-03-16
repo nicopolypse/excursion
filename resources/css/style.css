@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header--main{
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.link--cta{
+    font-size: 16px;
+    color: aquamarine;
+}
